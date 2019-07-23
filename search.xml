@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title><![CDATA[my-test]]></title>
+    <url>%2F2019%2F07%2F23%2Fmy-test%2F</url>
+    <content type="text"><![CDATA[This is a test case!]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[my-test1]]></title>
+    <url>%2F2019%2F07%2F23%2Fmy-test1%2F</url>
+    <content type="text"></content>
+  </entry>
 </search>
